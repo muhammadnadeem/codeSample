@@ -16,8 +16,8 @@ Following is the description of each file.
  - it is the main file that have code for json schema conversion. This can be also executed at standalone script.
 
 3. handler.py
- -  it have the code for the case if we want to used the same conversion script in any web application. I am using the
+ - it have the code for the case if we want to used the same conversion script in any web application. I am using the
  same script for schema conversion and after conversion of each record of input file i am saving the new schema into
  database.
 
-The code contains only related methods. All library imports are removed for these files for readability purpose.
+The code contains only related methods. All library imports are removed from these files for readability purpose.
